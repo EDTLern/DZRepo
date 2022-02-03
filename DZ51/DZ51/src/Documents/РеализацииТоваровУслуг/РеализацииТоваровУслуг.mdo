@@ -10,7 +10,7 @@
   <name>РеализацииТоваровУслуг</name>
   <synonym>
     <key>ru</key>
-    <value>Реализации товаров услуг</value>
+    <value>Реализации товаров и услуг</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.РеализацииТоваровУслуг.StandardAttribute.Number</inputByString>
